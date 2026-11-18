@@ -11,3 +11,4 @@ pandoc Preliminaries.md \
 pandoc 00_Base_Paper_Critical_Review_and_Gaps.md -o Base_Paper_Gap_Analysis.docx
 echo "Built Thesis_Draft.docx and Base_Paper_Gap_Analysis.docx"
 pandoc Examiner_Style_Review_of_Dual_Stream_Thesis.md -o Examiner_Style_Review.docx && echo "Built Examiner_Style_Review.docx"
+pandoc KNUST_Guide_Compliance_and_Additions.md --reference-doc=KNUST_Thesis_Template.docx -o KNUST_Guide_Compliance_and_Additions.docx && echo "Built KNUST_Guide_Compliance_and_Additions.docx"
