@@ -5,6 +5,7 @@
 
 | File | Contents | Status |
 |---|---|---|
+| `Base_Paper_Review_for_Prof_Twum.md` | Base paper review in Prof. F. Twum's 12-item format, for topic approval | **Current; to send to supervisor** |
 | `KNUST_Guide_Compliance_and_Additions.md` | Check against the KNUST SGS thesis guide (June 2016) and MPhil marking scheme; draft title page, declaration, 349-word abstract, propositions, theoretical/conceptual framework, research philosophy, sampling section | **Current** |
 | `KNUST_Thesis_Template.docx` | Word template: Times New Roman 12, 1.5 spacing, justified, A4, 2.5 cm margins with 4 cm binding margin, centred page numbers, chapters start on a new page | Use for the final thesis |
 | `Examiner_Style_Review_of_Dual_Stream_Thesis.md` | Pre-submission review of the 58-page thesis: verified numbers, 4 critical, 8 major and 12 minor issues, viva questions, priority order | **Current; start here** |
