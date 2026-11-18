@@ -10,3 +10,4 @@ pandoc Preliminaries.md \
   -o Thesis_Draft.docx
 pandoc 00_Base_Paper_Critical_Review_and_Gaps.md -o Base_Paper_Gap_Analysis.docx
 echo "Built Thesis_Draft.docx and Base_Paper_Gap_Analysis.docx"
+pandoc Examiner_Style_Review_of_Dual_Stream_Thesis.md -o Examiner_Style_Review.docx && echo "Built Examiner_Style_Review.docx"
