@@ -126,7 +126,7 @@ Part 1 shows where marks are at risk. Part 2 is a requirement-by-requirement che
 
 > I hereby declare that this submission is my own work and that, to the best of my knowledge and belief, it contains no material previously published or written by another person nor material which to a substantial extent has been accepted for the award of any other degree or diploma at Kwame Nkrumah University of Science and Technology, Kumasi or any other educational institution, except where due acknowledgment is made in the thesis.
 >
-> John Agyin (PG________) ………………… …………………
+> John Agyin (PG3200425) ………………… …………………
 > Name of Student and ID   Signature   Date
 >
 > Certified by:

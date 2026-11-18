@@ -5,7 +5,7 @@ subtitle: "Detecting Prompt Injection Attacks in Generative AI Systems: A Hybrid
 
 | | |
 |----|------------|
-| **Student** | John Agyin (Index No.: __________) |
+| **Student** | John Agyin (Index No.: PG3200425) |
 | **Programme** | MPhil Cybersecurity, Department of Computer Science, KNUST |
 | **Supervisor** | Prof. F. Twum |
 | **Base paper** | Alshammari, A. A. and Alsaleh, O. I. (2026). Detecting prompt injection attacks in generative AI systems: A hybrid SIEM and one-class SVM framework. *Electronics*, 15, 2242. https://doi.org/10.3390/electronics15112242 |
